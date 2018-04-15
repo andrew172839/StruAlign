@@ -1,1 +1,1 @@
-Here are some protein structure analysis codes (in Perl), which were used in my Bioinformatics research
+StruAlign is a set of protein structure analysis codes (in Perl), used in bioinformatics research
