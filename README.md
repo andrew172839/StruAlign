@@ -1,4 +1,4 @@
-StruAlign is a set of protein structure analysis codes (in Perl), used in Bioinformatics research
+StruAlign is a set of protein structure analysis codes (in Perl)
 
 For details, see
 
